@@ -1,1 +1,1 @@
-# aprendizado-git-hub
+Projeto aprendendo Git e Github para me tornar um programador fullstack.
